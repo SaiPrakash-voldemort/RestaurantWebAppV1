@@ -12,8 +12,9 @@ function App() {
     <div className="appBackground">
       <BrowserRouter>
         <NavBar />
+        <Home />
         <Routes>
-          <Route path="/" exact Component={Home} />
+          <Route path="" exact Component={Home} />
           <Route path="/Menu" exact Component={Menu} />
           <Route path="/Orders" exact Component={Orders} />
           <Route path="/Gallery" exact Component={Gallery} />
