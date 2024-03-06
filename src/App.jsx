@@ -13,7 +13,7 @@ function App() {
       <BrowserRouter>
         <NavBar />
         <Routes>
-          <Route path="/" exact Component={Home} />
+          <Route path="/RestaurantWebAppV1" exact Component={Home} />
           <Route path="/Menu" exact Component={Menu} />
           <Route path="/Orders" exact Component={Orders} />
           <Route path="/Gallery" exact Component={Gallery} />
