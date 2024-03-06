@@ -1,0 +1,49 @@
+@font-face {
+  font-family: heading;
+  src: url(./Lig.ttf);
+}
+@font-face {
+  font-family: Oct;
+  src: url(./Oct.ttf);
+}
+.navBar {
+  display: flex;
+  justify-content: space-around;
+}
+.left img {
+  margin: 7px;
+  padding: 2px;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+.middle ul {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  display: flex;
+  list-style: none;
+  font-size: 20px;
+}
+.middle li {
+  margin: 20px;
+  padding: 10px;
+}
+.right img {
+  margin: 7px;
+  padding: 2px;
+  height: 50px;
+  width: 50px;
+}
+.right {
+  display: flex;
+  align-items: center;
+}
+.right span {
+  position: relative;
+  bottom: 20px;
+  right: 36px;
+  color: white;
+}
+.listsNav:hover {
+  box-shadow: rgb(248, 255, 47) 0px 5px;
+}

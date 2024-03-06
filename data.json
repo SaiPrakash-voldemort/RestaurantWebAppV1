@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "category": "snacks",
+      "name": "Butter Naan",
+      "id": "5",
+      "price": "150",
+      "url": "https://foodess.com/wp-content/uploads/2023/02/Butter-Naan-3.jpg"
+    },
+    {
+      "category": "snacks",
+      "name": "Veg Manchuria",
+      "id": "6",
+      "price": "100",
+      "url": "https://www.yummytummyaarthi.com/wp-content/uploads/2015/11/1-9.jpg"
+    },
+    {
+      "category": "snacks",
+      "name": "Chicken Manchuria",
+      "id": "7",
+      "price": "120",
+      "url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1080/assets/search/usecase/chicken_manchurian_dry_zdish.png"
+    },
+    {
+      "category": "snacks",
+      "name": "Veg Noodles",
+      "id": "8",
+      "price": "90",
+      "url": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Hakka-Noodles-1-500x375.jpg"
+    },
+    {
+      "category": "snacks",
+      "name": "Egg Noodles",
+      "id": "9",
+      "price": "110",
+      "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/12/Noodles-with-chilli-oil-eggs-6ec34e9.jpg?resize=768,574"
+    },
+    {
+      "category": "snacks",
+      "name": "Chicken Noodles",
+      "id": "10",
+      "price": "130",
+      "url": "https://i.ytimg.com/vi/MhzBUy-JOCE/maxresdefault.jpg"
+    },
+    {
+      "category": "biryani",
+      "name": "Chicken Biryani",
+      "id": "1",
+      "price": "250",
+      "url": "https://img.freepik.com/free-photo/gourmet-chicken-biryani-with-steamed-basmati-rice-generated-by-ai_188544-13480.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1708214400&semt=sph"
+    },
+    {
+      "category": "biryani",
+      "name": "Mutton Biryani",
+      "id": "2",
+      "price": "350",
+      "url": "https://images3.alphacoders.com/670/670514.jpg"
+    },
+    {
+      "category": "biryani",
+      "name": "Paneer Biryani",
+      "id": "11",
+      "price": "250",
+      "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/02/paneer-biryani-recipe.jpg"
+    },
+    {
+      "category": "biryani",
+      "name": "Prawns Biryani",
+      "id": "12",
+      "price": "250",
+      "url": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Prawn-Biryani-Recipe.jpg"
+    },
+    {
+      "category": "curries",
+      "name": "Chicken Curry",
+      "id": "13",
+      "price": "250",
+      "url": "https://myfoodstory.com/wp-content/uploads/2020/10/Dhaba-Style-Chicken-Curry-2-500x500.jpg"
+    },
+    {
+      "category": "curries",
+      "name": "Mutton Curry",
+      "id": "14",
+      "price": "270",
+      "url": "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1732579691.jpg"
+    },
+    {
+      "category": "curries",
+      "name": "Fish Curry",
+      "id": "15",
+      "price": "270",
+      "url": "https://myfoodstory.com/wp-content/uploads/2021/08/spicy-fish-curry-with-coconut-and-tamarind-6-500x500.jpg"
+    },
+    {
+      "category": "drinks",
+      "name": "Sprite",
+      "id": "3",
+      "price": "80",
+      "url": "https://m.media-amazon.com/images/I/51A7kRyEnIL.jpg"
+    },
+    {
+      "category": "drinks",
+      "name": "Milk shake",
+      "id": "4",
+      "price": "100",
+      "url": "https://www.spoonforkbacon.com/wp-content/uploads/2023/04/milshake-recipe-card.jpg"
+    },
+    {
+      "category": "drinks",
+      "name": "Thums Up",
+      "id": "16",
+      "price": "20",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtzHHYNQRCmPI-XEZgAJTelDsAYAIwX9M8bQ&usqp=CAU"
+    },
+    {
+      "category": "drinks",
+      "name": "Chocolate Shake",
+      "id": "17",
+      "price": "100",
+      "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/chocolate-milkshake.jpg"
+    },
+    {
+      "category": "drinks",
+      "name": "Banana Milk Shake",
+      "id": "18",
+      "price": "100",
+      "url": "https://foodtasia.com/wp-content/uploads/2021/07/banana-milkshake-34.jpg"
+    },
+    {
+      "category": "drinks",
+      "name": "Papaya Milk Shake",
+      "id": "19",
+      "price": "100",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnpA2Qs9pqS9_JfVzSVe53sK0zGQ7KPjLwEg&usqp=CAU"
+    },
+    {
+      "category": "desserts",
+      "name": "Cherry Delight",
+      "id": "20",
+      "price": "75",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14baQzWSXmGiQazLKgKe4IB1klr5HpJn-OQ&usqp=CAU"
+    },
+    {
+      "category": "desserts",
+      "name": "Chocolate Delight",
+      "id": "21",
+      "price": "90",
+      "url": "https://insanelygoodrecipes.com/wp-content/uploads/2022/03/Chocolate-Delight-Served-in-White-Small-Plate.jpg"
+    },
+    {
+      "category": "desserts",
+      "name": "Apricot Delight",
+      "id": "22",
+      "price": "90",
+      "url": "https://hashtagbiryani.com/wp-content/uploads/2022/12/Apricot-Delite.jpg"
+    },
+    {
+      "category": "desserts",
+      "name": "Strawberry Delight",
+      "id": "23",
+      "price": "100",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIc5eLUOYaX5JObPbTD9ySf92NvGVjmQMGVg&usqp=CAU"
+    },
+    {
+      "category": "desserts",
+      "name": "Gulab Jamun",
+      "id": "24",
+      "price": "80",
+      "url": "https://indiasweethouse.in/cdn/shop/files/GulabJamun.jpg?v=1685442667"
+    }
+  ]
+}

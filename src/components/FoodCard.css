@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.foodCard {
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  height: 300px;
+  width: 250px;
+  display: flex;
+  margin: 10px;
+  overflow: hidden;
+  flex-direction: column;
+}
+.foodImage {
+  height: 50%;
+  width: 100%;
+}
+.details {
+  height: 50%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.foodImage img {
+  height: 100%;
+  width: 100%;
+  object-fit: fill;
+}
+.details h3 {
+  font-size: 20px;
+  margin: 2px;
+  padding: 2px;
+}
+.details h3 {
+  font-size: 20px;
+  margin: 2px;
+  padding: 2px;
+}
+.details h4 {
+  font-size: 25px;
+  margin: 2px;
+  padding: 2px;
+}
+.details button {
+  margin: 15px;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 16px;
+  border: none;
+}

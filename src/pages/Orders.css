@@ -1,0 +1,104 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.foodCard {
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  height: 300px;
+  width: 250px;
+  display: flex;
+  margin: 10px;
+  overflow: hidden;
+  flex-direction: column;
+}
+.foodImage {
+  height: 50%;
+  width: 100%;
+}
+.details {
+  height: 50%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(
+    112.1deg,
+    rgb(32, 38, 57) 11.4%,
+    rgb(63, 76, 119) 70.2%
+  );
+}
+.foodImage img {
+  height: 100%;
+  width: 100%;
+  object-fit: fill;
+}
+.details h3 {
+  font-size: 20px;
+  margin: 2px;
+  padding: 2px;
+}
+.details h3 {
+  font-size: 20px;
+  margin: 2px;
+  padding: 2px;
+}
+.details h4 {
+  font-size: 25px;
+  margin: 2px;
+  padding: 2px;
+}
+.details button {
+  margin: 15px;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 18px;
+  border: none;
+  font-weight: bold;
+}
+.ordersList {
+  padding: 10px;
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(
+    112.1deg,
+    rgb(32, 38, 57) 11.4%,
+    rgb(63, 76, 119) 70.2%
+  );
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  margin-top: 0px;
+  flex-wrap: wrap;
+}
+.noOrders {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  color: white;
+  border: 1px solid white;
+  width: fit-content;
+  margin: 5px;
+  padding: 15px;
+  border-radius: 10px;
+}
+.orders {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.mainOrders {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: transparent;
+}

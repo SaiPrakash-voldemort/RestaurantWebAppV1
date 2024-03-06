@@ -1,0 +1,14 @@
+.appBackground {
+  background-image: url("./imgs/restaurantBg.jpg");
+  height: 100vh;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+* {
+  text-decoration: none;
+}
+li {
+  color: white;
+}
